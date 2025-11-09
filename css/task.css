@@ -1,0 +1,14 @@
+label{
+    color: royalblue;
+}
+body{
+    background-color: yellow;
+}
+thead{
+    background-color: black;
+    color: white;
+}
+tbody{
+    background-color: limegreen;
+    color: black;
+}

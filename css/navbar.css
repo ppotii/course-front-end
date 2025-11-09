@@ -1,0 +1,23 @@
+#footer{
+
+background-color: aquamarine;
+position: fixed;
+width: 100%;
+bottom: 0%;
+height: 120px;
+padding: 20px;
+
+
+
+}
+
+
+
+#ptag p{
+
+font-size: large;
+display: flex;
+margin-left: 45%;
+
+
+}

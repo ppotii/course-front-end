@@ -1,0 +1,31 @@
+h1,h2 {
+    color: blue; !important;
+}
+
+
+*{
+    font-size: 15px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    color-scheme: initial;
+}
+
+._head{
+    color: red;
+text-align: center;
+}
+
+#_head{
+    color: green;
+text-align: center;
+}
+
+
+
+body{
+    background-color: yellow;
+}
+p strong{
+    color: purple;
+    font-size: 10px;
+}
